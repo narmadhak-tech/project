@@ -215,7 +215,7 @@ def Remove_Employee():
         menu()
 
 # Function to Search_Employ
-def Search_Employ():
+def Search_Employee():
     print("{:>60}".format("-->> Search Employee Record <<--\n"))
     Id = input("Enter Employee Id: ")
     # checking If Employee Id is Exit Or Not
